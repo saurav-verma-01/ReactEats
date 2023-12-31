@@ -1,0 +1,13 @@
+:root {
+  --honeydew: #edfdf2ff;
+  --forest-green: #138a36ff;
+  --amber: #ffc107ff;
+  --giants-orange: #ff5722ff;
+  --dodger-blue: #2196f3ff;
+  --night: #021207ff;
+}
+
+body {
+  font-family: "Merriweather", serif;
+  font-family: "Merriweather Sans", sans-serif;
+}
